@@ -1,7 +1,7 @@
 # Initialization Lab
 
 
-## 1: Structs Review
+## 1: Structs Review - done
 
 Download the resources at the link below:
 
