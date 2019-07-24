@@ -37,9 +37,9 @@ struct Book {
  */
 var favoriteBook = Book()
 print(favoriteBook.title)
-favoriteBook.title = "dune"
-favoriteBook.author = "Frank Herbert"
-favoriteBook.pages = 412
-favoriteBook.price = 9.99
+favoriteBook.title = "Three Body Problem"
+favoriteBook.author = "Cixin Liu"
+favoriteBook.pages = 900
+favoriteBook.price = 14.50
 
 //: page 1 of 10  |  [Next: App Exercise - Workout Tracking](@next)
